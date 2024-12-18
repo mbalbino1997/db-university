@@ -24,6 +24,8 @@ update teachers
 set office_number=126
 where name='pietro' and surname ='rizzo';
 
+delete from students where id=5002;
+
 
 
 ```
